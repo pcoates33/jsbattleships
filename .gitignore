@@ -1,0 +1,8 @@
+#npm and node generated files
+package-lock.json
+coverage
+node_modules
+
+# Eclipse project files
+.project
+.settings
