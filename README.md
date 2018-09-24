@@ -11,7 +11,7 @@ Then run the app with node
 <code>node src/app.js</code>
 
 ## to run tests
-You'll need to install jest if you don't already have it globally  
+You'll need to install jest to run the tests  
 <code>npm install --save-dev jest</code>
 
 Open a command window and navigate to the root of the project
